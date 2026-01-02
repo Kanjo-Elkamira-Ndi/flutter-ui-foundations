@@ -91,7 +91,7 @@ class ProfilePage extends StatelessWidget {
                     ),
                     SizedBox(height: 10),
                     Text(
-                      'Software Developer and Aspiring Flutter Developer with years of experience in programming and app development',
+                      'Softwar Developer with years of experience in programming and app development',
                       style: TextStyle(fontSize: 15, height: 1.4),
                       textAlign: TextAlign.center,
                     ),
